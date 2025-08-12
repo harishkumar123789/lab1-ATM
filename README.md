@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224230091
+# Name:HARISH KUMAR S
+# Date:12.08.2025
 
 
 # AIM:
@@ -30,6 +30,8 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+<img width="1206" height="1008" alt="image" src="https://github.com/user-attachments/assets/d5cf80e9-4226-4908-9150-3344f9444b97" />
+
 
 # USE CASE DIAGRAM
 
@@ -55,6 +57,8 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+<img width="1112" height="634" alt="image" src="https://github.com/user-attachments/assets/7e60c4ea-c033-4382-b190-6ac1a1fc8551" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
